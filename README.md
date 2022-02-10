@@ -22,3 +22,8 @@ Should open a file editor window with the commit information if param m is not p
 git push origin main
 ```
 Send all commited files to the repo.
+
+```git
+git pull
+```
+Update your local files of the repo the the latest version
