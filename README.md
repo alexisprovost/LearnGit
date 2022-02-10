@@ -27,3 +27,18 @@ Send all commited files to the repo.
 git pull
 ```
 Update your local files of the repo the the latest version
+
+```git
+git fetch
+```
+Get all repo related infos without getting files (ex, branches)
+
+```git
+git checkout
+```
+Switch branches
+
+```git
+git push --set-upstream origin bigfix/texturefix
+```
+Push to new branch
