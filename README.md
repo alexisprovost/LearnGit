@@ -34,8 +34,14 @@ git fetch
 Get all repo related infos without getting files (ex, branches)
 
 ```git
-git checkout
+git checkout main
 ```
+
+Create new branch from the branch you're currently on
+```git
+git checkout -b feature/test
+```
+
 Switch branches
 
 ```git
